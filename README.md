@@ -1,3 +1,4 @@
+# FILEMalSign
 FILEMalSign is just a very simple script for know if a file is a malicious code. It uses a simple SHA256 hash database (malsignDB) that works together with the pyhton script (filemalsign.py). The information stored in the "malsignDB" file is very simple and is in plain text, so you could add your own information to detect malicious code following a simple syntax based on hash sha256 (to avoid collisions) and the AV nomenclature.
 
 I use the "MalwareIntelligence" nomenclature because it's based in an experimental project related with malicious code detection, so you can simply add the word "MALWARE" to complete the simple signature. At the moment it detect 31.624 malicious code variants.
