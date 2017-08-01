@@ -11,7 +11,7 @@ This script was born as part of a personal task where I simplely needed to check
 
 * Support filetype tested: EXE, CPL, DLL, SCR, ELF, PDF, JAR, JS, RAR, ZIP. 
 	*** In theory support all filetype format but, of course, maybe don't work with all files.
-* I use the script in Ubuntu and Windows.
+* I use the script in Ubuntu, Mac and Windows.
 
 Usage syntax: ./filemalsign.py -o [filepath]
 
