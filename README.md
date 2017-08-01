@@ -3,7 +3,9 @@ FILEMalSign is just a very simple script for know if a file is a malicious code.
 
 * NOTE: You need uncompress the file "malsignDB.7z". This have the signature database file "malsignDB".
 
-I use the "MalwareIntelligence" nomenclature because it's based in an experimental project related with malicious code detection, so you can simply add the word "MALWARE" to complete the simple signature. At the moment it detect 435.648 malicious code variants.
+I use the "MalwareIntelligence" nomenclature because it's based in an experimental project related with malicious code detection, so you can simply add the word "MALWARE" to complete the simple signature. At the moment it detect 435.648 malicious code variants. 
+
+* Note that it isn't a malware scanner as a complete antivirus program. It's just a file identification focused in malicious code but on-demand.  
 
 This script was born as part of a personal task where I simplely needed to check a large volume of files (multiplatform) to know quickly if they were detected as malicious. Obviously, I cann't be held responsible for any kind of misuse you give to this script.
 
